@@ -22,3 +22,4 @@ This project is part of my exploration into AI-assisted development workflows, i
 - Build automated workflows (AI agents)
 - Expand into a full product showcase platform
 https://v0-inex-tau-jade.vercel.app/
+## I actively use AI tools daily for development and testing workflows.
