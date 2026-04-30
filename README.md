@@ -21,3 +21,4 @@ This project is part of my exploration into AI-assisted development workflows, i
 - Integrate real LLM APIs (OpenAI / DeepSeek / MiMo)
 - Build automated workflows (AI agents)
 - Expand into a full product showcase platform
+https://v0-inex-tau-jade.vercel.app/
